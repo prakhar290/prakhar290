@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prakhar-varshney)  
+
