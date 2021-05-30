@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
-<img align ="center" src ="https://github-readme-stats.vercel.app/api?username=prakhar-varshney &theme=blue-green&show_icons=true" />
+<img align ="center" src ="https://github-readme-stats.vercel.app/api?username=prakhar-varshney&theme=blue-green&show_icons=true" />
 <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-varshney" />
 
 
