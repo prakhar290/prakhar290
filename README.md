@@ -1,5 +1,7 @@
 ### Hi there 👋, Prakhar Varshney here :boy:.
 
+https://visitor-badge-reloaded.herokuapp.com/badge?page_id=prakhar-varshney
+
 <!--
 **prakhar290/prakhar290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
