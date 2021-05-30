@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - :mortar_board: ***Currently pursuing: Masters of Computer Applications***, *From*, ***KIET Group of Institution***, *Ghaziabad.*
 - 🌱 ***Currently learning:*** *C++ and Data Structure.*
 - 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS*
-- ⚡ ***Fun fact:*** *I always wants to learn everything like currently I'm learning C++ and Data Structures but i also want to learn Python and sometimes Android Development too.* 
+- ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
