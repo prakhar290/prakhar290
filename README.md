@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
 ###How to reach me :satellite:
-:e-mail: ***E-mail:*** *prakhar292000@gmail.com*
+
+-:e-mail: ***E-mail:*** *prakhar292000@gmail.com*
 
 
