@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
-###How to reach me :satellite:
+### How to reach me :satellite:
 
 -:e-mail: ***E-mail:*** *prakhar292000@gmail.com*
 
