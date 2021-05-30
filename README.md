@@ -11,12 +11,7 @@ Here are some ideas to get you started:
 - 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
-<img align ="center" src ="https://github-readme-stats.vercel.app/api?username=prakhar-varshney&theme=blue-green&show_icons=true" />
-<img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-varshney" />
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-varshney&layout=compact&theme=blue-green&]" />
-</a>
+###How to reach me :satellite:
+:e-mail: ***E-mail:*** *prakhar292000@gmail.com*
 
 
