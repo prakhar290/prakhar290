@@ -8,7 +8,7 @@
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
 
-### :satellite: *How to reach me:-* 
+# :satellite: *How to reach me:-*
 - :e-mail: ***E-mail:*** *prakhar292000@gmail.com*
 
 
