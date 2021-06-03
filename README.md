@@ -11,4 +11,9 @@
 ## :satellite: *How to reach me:-*
 - :e-mail: ***E-mail:*** *prakhar292000@gmail.com*
 
+#
+
+
+<img align ="center" src ="https://github-readme-stats.vercel.app/api?username=prakhar290&theme=blue-green&show_icons=true" />
+
 
