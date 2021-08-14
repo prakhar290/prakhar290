@@ -16,8 +16,6 @@
 
 <img align ="center" src ="https://github-readme-stats.vercel.app/api?username=prakhar290&theme=blue-green&show_icons=true" />
 
-<img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar290" />
-
 #
 
 
