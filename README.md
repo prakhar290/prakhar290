@@ -4,7 +4,7 @@
 ## *Hi there 👋, Prakhar Varshney here :boy:.*
 - :mortar_board: ***Currently pursuing: Masters of Computer Applications***, *From*, ***KIET Group of Institution***, *Ghaziabad.*
 - 🌱 ***Currently learning:*** *C++ and Data Structures.*
-- 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS*
+- 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS, SQL, Database, Pl/SQl*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
 
