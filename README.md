@@ -1,13 +1,13 @@
 ![Profile View](https://gpvc.arturio.dev/prakhar-varshney) 
 
 
-## *Hi there 👋, Prakhar Varshney here :boy:.*
+## *Hi there 👋,Prakhar Varshney here :boy:.*
 - 💼 ***Currently working as Associate Consultant at Ultragenic Research and Technologies Pvt Ltd***
 - :mortar_board: ***Currently pursuing: Masters of Computer Applications***, *From*, ***KIET Group of Institution***, *Ghaziabad.*
 - 🌱 ***Currently learning:*** *C++ and Data Structures.*
 - 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS, SQL, Database, Pl/SQl*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
-
+-
 
 ## :satellite: *How to reach me:-*
 - :e-mail: ***E-mail:*** *prakhar292000@gmail.com*
