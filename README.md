@@ -5,7 +5,7 @@
 - 💼 ***Currently working as Associate Consultant at Ultragenic Research and Technologies Pvt Ltd***
 - :mortar_board: ***Currently pursuing: Masters of Computer Applications***, *From*, ***KIET Group of Institution***, *Ghaziabad.*
 - 🌱 ***Currently learning:*** *C++ and Data Structures.*
-- 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS, SQL, Database, Pl/SQl*
+- 💬 ***Ask me about:*** *C, C++, Data Structures, HTML and CSS, SQL, Database, Pl/SQl, Oracle*
 - ⚡ ***Fun fact:*** *I am a foodie programmer.* 
 
 
